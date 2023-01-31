@@ -11,6 +11,8 @@ I used the tools of Unity in this Project so far.
 
 I used the XR Interaction Toolkit and XR Plugin Management Libraries in Unity.
 
+Using Visual Studio 2022 for scripts.
+
 # Useful Websites
 
 https://www.youtube.com/watch?v=8PCNNro7Rt0&list=PLpEoiloH-4eN0_53RMyv9p2oG2BB8uasX&index=21
@@ -18,5 +20,5 @@ https://www.youtube.com/watch?v=8PCNNro7Rt0&list=PLpEoiloH-4eN0_53RMyv9p2oG2BB8u
 # Future Work
 
 - Add items into the client using blender modeling
-- Make Hands interactable
-- Create a Landscape to explore
+- Make hands interactable
+- Create a landscape to explore
